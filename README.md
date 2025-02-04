@@ -16,7 +16,7 @@ The gambling system includes many psychological tricks that make people gamble w
 
 I originally created it for my friend, who was addicted to gambling and constantly betting. (99% of gamblers don’t gamble to win; they do it for the dopamine rush their body gets when they place a bet.)
 
-So, I built this system to let him gamble but made it **easy** for him to acquire 7YAS. I set it so that **1 YAS = 1 DH**, ensuring he felt the real value of his transactions.
+So, I built this system to let him gamble but made it hard for him to acquire 7YAS. I set it so that **1 YAS = 1 DH**, ensuring he felt the real value of his transactions.
 
 Over time, I gradually **made it easier** for him to obtain 7YAS, and eventually, he started noticing that gambling had become boring. **Alhamdulillah, he recovered!** i gave him back the money he had lost (obviously, he wasn’t winning, haha!).
 
