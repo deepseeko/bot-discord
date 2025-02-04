@@ -1,4 +1,3 @@
-```
 # 7YAS Wallet Bot
 
 **7YAS Wallet Bot** is a powerful Discord bot designed to manage wallets, handle currency conversions, and facilitate gambling activities using the **7YAS coin**.
@@ -86,10 +85,10 @@ You can control coin-related data from:
     ```sh
     python yas.py
     ```
-## Need Help?  
+## Need Help?
 
-📸 **Instagram**: [@deepseeko](https://www.instagram.com/deepseeko)  
-💬 **Discord**: @deepseeko 
+📸 **Instagram**: [@deepseeko](https://www.instagram.com/deepseeko)
+💬 **Discord**: @deepseeko
 
 ---
 
