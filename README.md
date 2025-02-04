@@ -10,7 +10,9 @@
 - 🔔 **send a message to members**
 - 📊 **Transaction Logging** – Keep records of all exchanges.
 - 🔔 **Webhook Notifications** – Get instant updates.
-- !! : **The gambling system includes many psychological tricks that make people gamble without realizing it!
+- !! :
+```
+The gambling system includes many psychological tricks that make people gamble without realizing it!
 
 I originally created it for my friend, who was addicted to gambling and constantly betting. (99% of gamblers don’t gamble to win; they do it for the dopamine rush their body gets when they place a bet.)
 
@@ -20,7 +22,8 @@ Over time, I gradually **made it easier** for him to obtain 7YAS, and eventually
 
 I sincerely hope this system is **not used in any way that is haram**. Please!
 
-**
+
+```
 ---
 
 ## 📈 7YAS Coin Pricing
